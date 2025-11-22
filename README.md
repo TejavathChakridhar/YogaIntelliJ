@@ -47,7 +47,7 @@ An intelligent yoga application that uses TensorFlow.js and MoveNet to detect an
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/harshbhatt7585/YogaIntelliJ.git
+git clone https://github.com/TejavathChakridhar/YogaIntelliJ.git
 cd YogaIntelliJ
 ```
 
